@@ -53,10 +53,10 @@ $banner = $green." _____   ____  ____
 |_|0000 |____/|_|
 
 
-".$green."Facebook Bruteforce
-".$cyan."Author: Rendy gans01\n\n".$nc;
+".$green."Facebook Crack
+".$cyan."Rizal_Cyber Eror 404\n\n".$nc;
 $file = $_SERVER[argv][1];
-echo "$white Masukkan ID Target Luh:$yellow ";
+echo "$white Masukkan ID Target Njing:$yellow ";
 $user = trim(fgets(STDIN));
 echo "$white Tulis pass.txt:$yellow ";
 $wordlist = trim(fgets(STDIN));
